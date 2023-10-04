@@ -24,8 +24,8 @@ Je suis déterminé à devenir un développeur talentueux et à contribuer à de
 [![img_contact](./img/instagram-light.svg)](https://instagram.com/GeoffreyR#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://instagram.com/GeoffreyR#gh-dark-mode-only)
 -->
-[![img_contact](./img/linkedin-light.svg)](https://fr.linkedin.com/in/geoffrey-ravenet-9ba767163/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://fr.linkedin.com/in/geoffrey-ravenet-9ba767163/#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](mailto:ravenet.geoffreypro@gmail.com/#gh-light-mode-only)
+[![img_contact](./img/globe-light.svg)](mailto:ravenet.geoffreypro@gmail.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://fr.linkedin.com/in/geoffrey-ravenet-9ba767163/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://fr.linkedin.com/in/geoffrey-ravenet-9ba767163/#gh-dark-mode-only)
