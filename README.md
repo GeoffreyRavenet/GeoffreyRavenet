@@ -1,7 +1,23 @@
-### Hi there 👋
+# Geoffrey RAVENET
+
+👋 Salut, je suis Geoffrey, un jeune développeur passionné basé en France. Mon parcours dans le monde du développement a commencé récemment, et je suis particulièrement enthousiasmé par JavaScript et React.
 
 <!--
 **GeoffreyRavenet/GeoffreyRavenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Actuellement :
+
+- 🔭 Je me plonge dans des projets passionnants pour renforcer mes compétences en React...
+- 🌱 J'apprends chaque jour de nouvelles astuces et bonnes pratiques en JavaScript...
+- 👯 J'apprécie les communautés de développement qui m'aide à grandir...
+- ⚡ Fait amusant : Je suis également un peux geek d'ou mon parcours 
+- 📫 Vous pouvez me contacter par email
+
+Je suis déterminé à devenir un développeur talentueux et à contribuer à des projets incroyables dans l'univers JavaScript et React. Suivez-moi pour être témoin de ma progression et de mes découvertes passionnantes !
+
+
+<!--
 
 Here are some ideas to get you started:
 
